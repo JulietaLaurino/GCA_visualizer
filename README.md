@@ -1,4 +1,4 @@
-# Polynomial curve visualizer for Growth Curve Anlayses
+# Polynomial curve visualizer for Growth Curve Anlaysis
 
 This is an interactive tool that allows users to visualize the contribution of each polynomial term to the total polynomial function. 
 
