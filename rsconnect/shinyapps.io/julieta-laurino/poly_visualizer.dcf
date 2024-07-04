@@ -1,0 +1,12 @@
+name: poly_visualizer
+title: poly_visualizer
+username: julieta-laurino
+account: julieta-laurino
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11993230
+bundleId: 8677207
+url: https://julieta-laurino.shinyapps.io/poly_visualizer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
